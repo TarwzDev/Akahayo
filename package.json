@@ -1,0 +1,30 @@
+{
+  "name": "akahayo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.1.0",
+    "duck-duck-scrape": "^1.0.3",
+    "enmap": "^5.2.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "opusscript": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl": "^0.13.1",
+    "ytdl-core": "^1.0.0",
+    "ytdl-core-discord": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
